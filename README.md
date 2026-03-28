@@ -24,7 +24,7 @@ Via `POST` &amp; `DELETE` request via `/api/todo` route.
 
 ## TODO
 
- - [*] **Or** Remove `html` file;
+ - ~~[*] **Or** Remove `html` file~~;
  - [_] **Or** add `html` frontend. 
 
 ## Learn more
